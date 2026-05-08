@@ -1,6 +1,6 @@
 # EduCycle — Sustainable Resale Platform for Engineering Students
 
-EduCycle is a web-based peer-to-peer marketplace exclusively for university campuses, enabling students and staff to **buy, sell, and exchange** second-hand academic materials like textbooks, electronics, stationery, and more in a trusted, eco-friendly environment.
+EduCycle is a web-based peer-to-peer marketplace exclusively for university campuses, enabling students to **buy, sell, and exchange** second-hand academic materials like textbooks, electronics, stationery, and more in a trusted, eco-friendly environment.
 
 ---
 
